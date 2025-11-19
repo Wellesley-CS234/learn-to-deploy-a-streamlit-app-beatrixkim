@@ -16,6 +16,7 @@ import plotly.express as px
 
 # 1. Configuration and Data Loading
 st.set_page_config(layout="wide", page_title="Titanic Exploratory Analysis")
+st.subheader("BB's very own Titanic dataset analysis")
 
 @st.cache_data
 def load_data():
