@@ -16,7 +16,6 @@ import plotly.express as px
 
 # 1. Configuration and Data Loading
 st.set_page_config(layout="wide", page_title="Titanic Exploratory Analysis")
-st.subheader("BB's very own Titanic dataset analysis")
 
 @st.cache_data
 def load_data():
@@ -51,6 +50,7 @@ option_key = st.sidebar.radio(
 )
 
 st.title(f"Titanic Dataset Explorer: {analysis_options[option_key]}")
+st.subheader("BB's very own Titanic dataset analysis")
 
 # 3. Main Page Logic based on Selection
 if option_key == "1":
