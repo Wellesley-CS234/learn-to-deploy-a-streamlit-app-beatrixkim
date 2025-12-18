@@ -1,0 +1,62 @@
+{
+  "Policy": {
+    "en": ["policy", "regulation", "law", "agreement", "treaty"],
+    "ar": ["سياسة", "قانون", "اتفاقية", "معاهدة", "تنظيم"],
+    "fr": ["politique", "loi", "accord", "traité", "règlement"],
+    "es": ["política", "ley", "acuerdo", "tratado", "regulación"],
+    "de": ["politik", "gesetz", "vereinbarung", "abkommen", "vertrag"],
+    "pt": ["política", "lei", "acordo", "tratado", "regulamento"],
+    "zh": ["政策", "法律", "协定", "条约", "规定"],
+    "ru": ["политика", "закон", "соглашение", "договор", "регулирование"],
+    "uk": ["політика", "закон", "угода", "договір", "регулювання"],
+    "it": ["politica", "legge", "accordo", "trattato", "regolamento"]
+  },
+  "Adaptation": {
+    "en": ["adaptation", "protection", "disaster", "flood", "coastal", "drought"],
+    "ar": ["تكيّف", "حماية", "كارثة", "فيضانات", "ساحلي", "جفاف"],
+    "fr": ["adaptation", "protection", "désastre", "inondation", "côtier", "sécheresse"],
+    "es": ["adaptación", "protección", "desastre", "inundación", "costera", "sequía"],
+    "de": ["anpassung", "schutz", "katastrophe", "überschwemmung", "küste", "dürre"],
+    "pt": ["adaptação", "proteção", "desastre", "enchente", "costeiro", "seca"],
+    "zh": ["适应", "保护", "灾害", "洪水", "沿海", "干旱"],
+    "ru": ["адаптация", "защита", "катастрофа", "наводнение", "прибрежный", "засуха"],
+    "uk": ["адаптація", "захист", "катастрофа", "повінь", "прибережний", "посуха"],
+    "it": ["adattamento", "protezione", "disastro", "alluvione", "costiero", "siccità"]
+  },
+  "Environment": {
+    "en": ["biodiversity", "forest", "ocean", "ecosystem", "species", "habitat", "deforestation", "pollution"],
+    "ar": ["التنوع البيولوجي", "غابة", "محيط", "نظام بيئي", "نوع", "موطن", "إزالة الغابات", "تلوث"],
+    "fr": ["biodiversité", "forêt", "océan", "écosystème", "espèce", "habitat", "déforestation", "pollution"],
+    "es": ["biodiversidad", "bosque", "océano", "ecosistema", "especie", "hábitat", "deforestación", "contaminación"],
+    "de": ["biodiversität", "wald", "ozean", "ökosystem", "art", "lebensraum", "abholzung", "verschmutzung"],
+    "pt": ["biodiversidade", "floresta", "oceano", "ecossistema", "espécie", "habitat", "desmatamento", "poluição"],
+    "zh": ["生物多样性", "森林", "海洋", "生态系统", "物种", "栖息地", "砍伐", "污染"],
+    "ru": ["биоразнообразие", "лес", "океан", "экосистема", "вид", "среда обитания", "вырубка леса", "загрязнение"],
+    "uk": ["біорізноманіття", "ліс", "океан", "екосистема", "вид", "середовище", "вирубка лісу", "забруднення"],
+    "it": ["biodiversità", "foresta", "oceano", "ecosistema", "specie", "habitat", "deforestazione", "inquinamento"]
+  },
+  "Science": {
+    "en": ["climate change", "global warming", "temperature", "sea level", "ice melt", "co2"],
+    "ar": ["تغير المناخ", "الاحترار العالمي", "درجة الحرارة", "مستوى البحر", "ذوبان الجليد", "ثاني أكسيد الكربون"],
+    "fr": ["changement climatique", "réchauffement climatique", "température", "niveau de la mer", "fonte des glaces", "co2"],
+    "es": ["cambio climático", "calentamiento global", "temperatura", "nivel del mar", "deshielo", "co2"],
+    "de": ["klimawandel", "globale erwärmung", "temperatur", "meeresspiegel", "eisschmelze", "co2"],
+    "pt": ["mudança climática", "aquecimento global", "temperatura", "nível do mar", "derretimento do gelo", "co2"],
+    "zh": ["气候变化", "全球变暖", "温度", "海平面", "冰融化", "二氧化碳"],
+    "ru": ["изменение климата", "глобальное потепление", "температура", "уровень моря", "таяние льда", "co2"],
+    "uk": ["зміна клімату", "глобальне потепління", "температура", "рівень моря", "танення льоду", "co2"],
+    "it": ["cambiamento climatico", "riscaldamento globale", "temperatura", "livello del mare", "scioglimento dei ghiacci", "co2"]
+  },
+  "Sustainability": {
+    "en": ["sustainable", "green", "renewable", "recycling", "energy", "carbon"],
+    "ar": ["مستدام", "أخضر", "متجدد", "إعادة التدوير", "طاقة", "كربون"],
+    "fr": ["durable", "vert", "renouvelable", "recyclage", "énergie", "carbone"],
+    "es": ["sostenible", "verde", "renovable", "reciclaje", "energía", "carbono"],
+    "de": ["nachhaltig", "grün", "erneuerbar", "recycling", "energie", "kohlenstoff"],
+    "pt": ["sustentável", "verde", "renovável", "reciclagem", "energia", "carbono"],
+    "zh": ["可持续", "绿色", "可再生", "回收", "能源", "碳"],
+    "ru": ["устойчивый", "зеленый", "возобновляемый", "переработка", "энергия", "углерод"],
+    "uk": ["стійкий", "зелений", "відновлюваний", "переробка", "енергія", "вуглець"],
+    "it": ["sostenibile", "verde", "rinnovabile", "riciclaggio", "energia", "carbonio"]
+  }
+}
